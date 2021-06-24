@@ -1,6 +1,5 @@
 # UDP Programming Languages 
 This is a page where I am going to store, every exercise I have in my college programming courses
-beginning with C++ in the First semester "Programación" Course
 
 ## C++
 Here I start with fundamentals of c++

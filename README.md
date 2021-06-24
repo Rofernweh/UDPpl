@@ -6,13 +6,13 @@ beginning with C++ in the First semester "Programación" Course
 Here I start with fundamentals of c++
 
 First class (1.x)
-Here I understand variable types, operators, and how to use them, including some basic exercises.
+Here I learn to understand variable types, operators, and how to use them, including some basic exercises.
 
 Second class (2.x)
 Here I learn how to use see cin, cout, and variables, where we start developing little programs to strengthen our logical thinking.
 
 Third class (3.x)
-This class were pure exercises 
+This class were just exercises 
 
 Fourth class (4.x)
 Here we learn flow control, and how to use if, else and else if.

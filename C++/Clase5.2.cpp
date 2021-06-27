@@ -16,7 +16,7 @@ int main()
 	}
 	else if (num == 0)
 	{
-		cout << "El numero es cero"
+		cout << "El numero es cero";
 	}
 
 	return 0;

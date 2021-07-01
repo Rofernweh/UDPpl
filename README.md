@@ -11,7 +11,7 @@ Second class (2.x)
 Here I learn how to use see cin, cout, and variables, where we start developing little programs to strengthen our logical thinking.
 
 Third class (3.x)
-Here we just do exercises 
+Here we just do exercises.
 
 Fourth class (4.x)
 Here we learn flow control, and how to use if, else and else if.
@@ -30,3 +30,6 @@ Here we learn For loops, syntax and how to use it.
 
 Nineth class (9.x)
 Here we do mostly Loop exercises.
+
+Tenth class (10.x)
+Here we review from input and output to loops.

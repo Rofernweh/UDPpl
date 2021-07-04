@@ -33,3 +33,6 @@ Here we do mostly Loop exercises.
 
 Tenth class (10.x)
 Here we review from input and output to loops.
+
+Eleventh class(11.x)
+Here we learn arrays.

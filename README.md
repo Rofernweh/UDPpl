@@ -4,7 +4,7 @@ This is a page where I am going to store, every exercise I have in my college pr
 ## C++
 Here I start with fundamentals of c++.
 
-### - First class (1.x)
+### <ul> First class (1.x) <ul>
 Here I learn to understand variable types, operators, and how to use them, including some basic exercises.
 
 ### -Second class (2.x)

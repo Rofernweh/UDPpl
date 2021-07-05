@@ -35,4 +35,4 @@ This is a page where I am going to store, every exercise I have in my college pr
 *Here we review from input and output to loops.*
 
 ### ● Eleventh class(11.x)
-*Here we learn arrays.*
+*Here we learn arrays, how to initialize, call, and work with them.*

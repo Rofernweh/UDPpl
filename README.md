@@ -2,7 +2,7 @@
 This is a page where I am going to store, every exercise I have in my college programming courses.
 
 ## C++
-*Here I start with fundamentals of c++.*
+***Here I start with fundamentals of c++.***
 
 ### ● First class (1.x) 
 *Here I learn to understand variable types, operators, and how to use them, including some basic exercises.*

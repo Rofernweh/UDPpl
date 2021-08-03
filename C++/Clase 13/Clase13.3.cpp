@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Pedirle al usuario otra matriz de 5x5, luego indicar por pantalla si ambas matrices son iguales o no.
+//Crear una tercera matriz, que corresponda a la suma punto a punto de ambas matrices anteriores.
 int main()
 {   
     int matriz[5][5];
@@ -28,23 +28,19 @@ int main()
             cin >> matriz2[k][l];
         }
     }
-    int contador=0;
-    for(int k=0;k<5;k++)
+    int matriz3[5][5];
+    for(int a=0;a<5;a++)
     {
-        for(int l=0; l<5;l++)
+        for(int b=0; b<5;b++)
         {
-            if (matriz[k][l] == matriz2[k][l])
-            {
-                contador++;
-            }
+            matriz3[a][b] = (matriz[a][b] + matriz2[a][b]);
         }
     }
-    if (contador <25)
+    for(int a=0;a<5;a++)
     {
-        cout << "No son iguales";
-    }
-    else if(contador == 25)
-    {
-        cout << "Son iguales";
+        for(int b=0; b<5;b++)
+        {
+            cout << matriz3[a][b] << " \n"[b == 5-1];
+        }
     }
 }
